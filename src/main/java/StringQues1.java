@@ -7,3 +7,6 @@ public class StringQues1 {
         System.out.println("The length of the string is " + size);
     }
 }
+
+
+
